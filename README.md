@@ -6,6 +6,9 @@ Certainly! Here’s a description you could use for your GitHub repository:
 
 A simple Python application that fetches and displays random quotes using the `requests` library and `ttkbootstrap` for the GUI.
 
+![image](https://github.com/user-attachments/assets/763806dd-d2f2-43ee-a2bd-0f40eb205ece)
+
+
 ## Overview
 
 This project is a basic GUI application built with Python that allows users to fetch and display random quotes. It uses the `requests` library to interact with the Quotable API and `ttkbootstrap` to provide a modern look and feel for the user interface.
