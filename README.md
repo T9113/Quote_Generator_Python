@@ -10,11 +10,21 @@ A simple Python application that fetches and displays random quotes using the `r
 
 This project is a basic GUI application built with Python that allows users to fetch and display random quotes. It uses the `requests` library to interact with the Quotable API and `ttkbootstrap` to provide a modern look and feel for the user interface.
 
+## Structure of the program
+ 1. Import the necessary libraries: requests, ttk and ttkbootstrap
+ 2. Define the API endpoint to fetch quotes and create a function to get the quotes from the API
+ 3. Create the GUI application using Tkinter
+ 4. Create a frame in the GUI and add a label to display the quote and another label to display the author
+ 5. Add a button to fetch new quotes
+ 6. Define a function to update the quote and author labels
+ 7. Show the GUI using root.mainloop()
+
 ## Features
 
 - **Fetch Random Quotes**: Retrieves random quotes from the Quotable API.
 - **Modern GUI**: Utilizes `ttkbootstrap` to create a visually appealing and responsive interface.
 - **Simple and Lightweight**: Designed to be easy to understand and extend.
+  
 
 ## Installation
 
